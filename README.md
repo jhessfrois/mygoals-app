@@ -45,7 +45,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido um aplicativo de metas financeiras pessoal.
 
 ## 💻 Deploy
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/youtube/)
+- [🔗 Clique aqui para acessar no IOS](https://qr.expo.dev/eas-update?updateId=766fd3aa-172f-45da-96be-373a0b03cbe2&appScheme=exp&host=u.expo.dev)
+- [🔗 Clique aqui para acessar no Android](https://qr.expo.dev/eas-update?updateId=a51b4091-7edc-4c70-bb4a-8b2326019943&appScheme=exp&host=u.expo.dev)
 
 ## **🤍 Contato**
 
